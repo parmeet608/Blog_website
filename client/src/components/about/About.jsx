@@ -28,22 +28,20 @@ const About = () => {
             <Banner/>
             <Wrapper>
                 <Typography variant="h3">Code for Interview</Typography>
-                <Text variant="h5">I'm a Software Engineer based in India. 
-                    I've built websites, desktop applications and corporate software.<br />
-                    If you are interested, you can view some of my favorite projects here
+                <Text variant="h5">We are a dynamic team of four ITS program students at Humber College. With a shared passion for technology and innovation, we collaborate to tackle diverse challenges in the IT field. Through our combined expertise in web development, software engineering, and system analysis, we strive to deliver high-quality projects. With strong communication and problem-solving skills, we work together to create user-friendly and scalable solutions. As lifelong learners, we continuously update our skills to stay at the forefront of the ever-evolving tech industry. We are excited to leverage our collective talents to make a positive impact in the world of information technology.
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://github.com/kunaltyagi9" color="inherit" target="_blank"><GitHub /></Link>
+                        <Link href="" color="inherit" target="_blank"><GitHub /></Link>
                     </Box>
                 </Text>
                 <Text variant="h5">
-                    Need something built or simply want to have chat? Reach out to me on
+                    contact us on<br/>
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://www.instagram.com/codeforinterview/" color="inherit" target="_blank">
-                            <Instagram />
+                        <Link href="" color="inherit" target="_blank">
+                            <Instagram /> <br/>
                         </Link>
                     </Box>  
-                        or send me an Email 
-                        <Link href="mailto:codeforinterview@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
+                        or send me an Email <br/>
+                        <Link href="" target="_blank" color="inherit">
                             <Email />
                         </Link>.
                 </Text>
