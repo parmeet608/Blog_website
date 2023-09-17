@@ -1,6 +1,6 @@
 # Blog Website
 
-This project is a collaborative effort by a team of four members. It is a blog website that allows users to create, delete, and filter blogs, as well as add images and comments to them. The website also includes sorting functionality to organize blogs based on various criteria.
+It is a blog website that allows users to create, delete, and filter blogs, as well as add images and comments to them. The website also includes sorting functionality to organize blogs based on various criteria.
 
 ## Features
 
